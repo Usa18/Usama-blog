@@ -19,5 +19,11 @@
 	<title>Usama_blog</title>
 </head>
 <body>
+
+	<?php 
+		$name = "Aahad Ahmed";
+		$position = "A";
+	?>
 </body>
 </html>
+dslf
